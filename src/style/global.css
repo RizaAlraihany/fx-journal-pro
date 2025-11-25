@@ -1,0 +1,39 @@
+[x-cloak] {
+  display: none !important;
+}
+body {
+  background-color: #0f172a;
+  color: #e2e8f0;
+  font-family: "Inter", sans-serif;
+}
+.glass-panel {
+  background-color: #1e293b;
+  border: 1px solid #334155;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+}
+.input-dark {
+  background-color: #334155;
+  border: 1px solid #475569;
+  color: white;
+  transition: all 0.2s;
+}
+.input-dark:focus {
+  border-color: #3b82f6;
+  ring: 2px solid #3b82f6;
+  outline: none;
+}
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
