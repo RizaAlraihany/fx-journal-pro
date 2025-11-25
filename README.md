@@ -6,6 +6,12 @@ FX Journal Pro adalah aplikasi web modern yang dirancang untuk membantu trader m
 
 ---
 
+## 🌐 Live Demo
+
+<a href="https://rizaalraihany.github.io/fx-journal-pro/">Klik di sini untuk mencoba aplikasi</a>
+
+---
+
 ## ✨ Fitur Utama
 
 ### 📊 Dashboard Statistik Real-Time
